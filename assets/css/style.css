@@ -290,7 +290,7 @@ footer a {
 .footer a:hover i {
     color: rgb(217, 217, 217);
 }
-/* .bulle {
+.bulle {
     cursor: context-menu;
     position: absolute;
     inset: 0; 
@@ -307,4 +307,4 @@ footer a {
     height: 40px;
     cursor: none;
     border: 1px dashed;
-} */
+}
